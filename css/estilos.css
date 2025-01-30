@@ -2,4 +2,6 @@ body{
     background: rgb(176, 176, 241);
     font-weight: bold;
     color:blue
+    /*añado tamaño a la letra*/
+    font-size:20px;
 }
